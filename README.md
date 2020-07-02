@@ -3,6 +3,7 @@
 
 stephane.bochard@univ-ubs.fr
 
-- répertoire BE
-- répertoire EF
-- répertoire RdM
+* répertoire BE
+* répertoire EF
+* répertoire RdM
+* répertoire Vibration
